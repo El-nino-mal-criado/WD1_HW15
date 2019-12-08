@@ -1,0 +1,43 @@
+body{
+    background-color: darkgray;
+    font-family: sans-serif;
+}
+
+button {
+    background-color: cornflowerblue;
+    border-radius: 10px;
+}
+
+.text_red{
+    color: red;
+}
+
+#title_fakebook{
+    color: mediumblue;
+    font-family: Arial;
+    font-size: 40px;
+    font-style: italic;
+    margin-right: 0;
+    display: inline-block;
+}
+
+#search{
+    border-radius: 10px;
+    height: 30px;
+}
+
+#search:hover{
+    border-radius: 10px;
+    height: 30px;
+    width: 430px;
+}
+
+img{
+    width: 500px;
+    border-radius: 10px;
+}
+
+img:hover{
+    border: black dashed 4px;
+    width: 700px;
+}
